@@ -28,9 +28,9 @@ This dashboard provides a visual overview of key academic metrics related to stu
 
 -How could you automate or refresh KPI values when new data is added to the source file?
 
- -DashBord Interaction 
- <a herf="https://github.com/anasmummar-702/data-analysis-dashboard/blob/main/Screenshot%202025-10-21%20145619.png">View Dashboard</a>
+ -DashBord Interaction <a herf="https://github.com/anasmummar-702/data-analysis-dashboard/blob/main/Screenshot%202025-10-21%20145619.png">View Dashboard</a>
 
+ 
 ---
 
 ## ⚙️ Process and Steps
