@@ -9,12 +9,60 @@ This dashboard provides a visual overview of key academic metrics related to stu
 ## Question (Kpis)
 
 -What does the KPI “Selected Students = 1318” represent, and how is it calculated in your dashboard?
+
 -How does the ‘30+ Units in Year 1’ KPI help measure student academic performance or progress?
+
 -What insight can you draw from the fact that only 21.62% of students completed more than 30 units in their first year?
+
 -Why is tracking student count by year important for institutional performance measurement?
+
 -How do the KPIs for awards (A.A., A.S., Certificates) reflect student success trends?
+
 -What does the transfer institute KPI reveal about student continuation rates and preferred universities?
+
 -How do you define success metrics in this dashboard — what KPIs show improvement or decline?
+
 -If the number of selected students decreases next year, which other KPIs would you analyze to find the reason?
+
 -What thresholds or goals would you set for these KPIs to evaluate academic progress over time?
+
 -How could you automate or refresh KPI values when new data is added to the source file?
+
+ -DashBord Interaction <a herf="https://github.com/anasmummar-702/data-analysis-dashboard/blob/main/Screenshot%202025-10-21%20145619.png">View Dashboard</a>
+
+---
+
+## ⚙️ Process and Steps
+
+### 1. Data Collection
+- Imported student dataset from Excel/CSV into Power BI.
+- Included key fields: Student ID, Cohort Year, Gender, Ethnicity, Award Type, Units Completed, and Transfer Institute.
+
+### 2. Data Transformation
+- Cleaned and transformed data using **Power Query**.
+- Removed duplicates, handled missing values, and standardized column names.
+- Created calculated columns and measures (e.g., students with 30+ units in Year 1).
+
+### 3. Data Modeling
+- Built relationships between tables (`Sheet1`, `Query1`) using **Student ID**.
+- Used **DAX** measures to calculate KPIs such as total selected students and percentage completion.
+
+### 4. Dashboard Design
+- Created an interactive dashboard featuring:
+  - **Line Chart** – Student count by year  
+  - **Donut Chart** – 30+ units completed in Year 1  
+  - **Bar Charts** – Award distribution & Transfer institute  
+  - **KPI Card** – Total selected students (1318)
+- Added slicers for Gender, Ethnicity, Cohort Year, and Veteran Status.
+
+### 5. Insights
+- Student enrollment decreased over time (2010–2013).  
+- Only **21.62%** of students completed 30+ units in their first year.  
+- Most students earned **A.A.** or **A.S.** awards.  
+- Highest transfers were to **UC campuses (846 students)**.
+
+---
+## Dashboard 
+<img width="1920" height="1080" alt="Screenshot 2025-10-21 145619" src="https://github.com/user-attachments/assets/14dfada2-dc40-49a9-8c6a-865413be3a0d" />
+
+
