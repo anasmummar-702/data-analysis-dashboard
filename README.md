@@ -65,4 +65,33 @@ This dashboard provides a visual overview of key academic metrics related to stu
 ## Dashboard 
 <img width="1920" height="1080" alt="Screenshot 2025-10-21 145619" src="https://github.com/user-attachments/assets/14dfada2-dc40-49a9-8c6a-865413be3a0d" />
 
+## 📊 Project Insights
+
+1. **Enrollment Trend:**  
+   The line chart shows a **steady decline in student enrollment** from 2010 to 2013, indicating a possible drop in student intake or retention rates.
+
+2. **Academic Progress:**  
+   Only **21.62%** of students completed **30+ units** in their first year, suggesting a need for enhanced academic support during the early stages of study.
+
+3. **Award Distribution:**  
+   The majority of students received **A.A. (Associate of Arts)** and **A.S. (Associate of Science)** degrees, while a notable portion received **no awards**, signaling potential gaps in completion rates.
+
+4. **Transfer Outcomes:**  
+   **UC campuses** accounted for the highest number of student transfers (**846 students**), highlighting strong transfer pathways and partnerships.
+
+5. **Demographic Insights:**  
+   Interactive slicers (Gender, Ethnicity, Cohort Year, and Veteran Status) enable dynamic filtering and deeper analysis of student demographics and performance trends.
+
+---
+
+## 🧠 Final Conclusion
+
+The **CAIR KPI Dashboard** delivers a comprehensive view of student performance, enrollment trends, and transfer outcomes.  
+By leveraging **Power BI**, this analysis transforms raw educational data into meaningful insights that support data-driven decision-making.  
+
+This project demonstrates how visual analytics can help educational institutions:
+- Track key performance indicators (KPIs)  
+- Identify performance gaps early  
+- Improve academic planning and student success outcomes  
+
 
