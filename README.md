@@ -4,7 +4,7 @@ This dashboard provides a visual overview of key academic metrics related to stu
 
 ## Dataset used
 
--<a href="https://github.com/anasmummar-702/data-analysis-dashboard/blob/main/Data%20file%20for%20dashboard_CAIR_fin.xlsx">Dataset</a>
+-<a href="https://github.com/anasmummar-702/data-analysis-dashboard/blob/main/Screenshot%202025-10-21%20145619.png">Dataset</a>
 
 ## Question (Kpis)
 
